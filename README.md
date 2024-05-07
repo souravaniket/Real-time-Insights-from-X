@@ -13,3 +13,4 @@ In this project we have implemented following things:
 9) Language utilization analysis**
 For reference : S. Kuamri and C. N. Babu, "Real time analysis of social media data to understand people emotions towards national parties," 2017 8th International Conference on Computing, Communication and Networking Technologies (ICCCNT), Delhi, India, 2017, pp. 1-6, doi: 10.1109/ICCCNT.2017.8204059. keywords: {Social network services;Sentiment analysis;Text mining;Feature extraction;Real-time systems;Time division multiplexing;social media;data analytics;text mining;lexicon;unsupervised;sentiemnt analysis},
 
+The Three JSON files are the three datasets and pr1.py is the code file. 
